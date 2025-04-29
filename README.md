@@ -1,13 +1,13 @@
 <h1 align="center">Helloooo! 🚀 My name is Nadra Mahamed</h1>
-<h3 align="center">I'm an aspiring full-stack developer based in Minnesota</h3>
+<h3 align="center">I'm an aspiring full-stack developer based in Minnesota.</h3>
 
 - 🔭 My current project is a **portfolio template for artists, but it isn't quite available just yet! Check back for updates.**
 
 - 🌱 I’m currently learning **about full-stack development.**
 
-- 💬 Ask me about **react, java, and python**
+- 💬 Ask me about **react, java, and python!**
 
-- 📫 How to reach me **nadrasmahamed@gmail.com**
+- 📫 How to reach me **nadrasmahamed@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
