@@ -1,5 +1,5 @@
 <h1 align="center">Helloooo! 🚀 My name is Nadra Mahamed</h1>
-<h3 align="center">I'm an aspiring full-stack developer based in Minnesota.</h3>
+<h3 align="center">I'm an aspiring full-stack developer based in Saint Paul, Minnesota.</h3>
 
 - 🔭 My current project is a **portfolio template for artists, but it isn't quite available just yet! Check back for updates.**
 
