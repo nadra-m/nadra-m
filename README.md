@@ -1,7 +1,7 @@
 <h1 align="center">Hello hello! 🚀 My name is Nadra Mahamed</h1>
 <h3 align="center">I'm a fullstack developer based in Saint Paul, Minnesota.</h3>
 
-<h6 align="left"><u>About Me</u></h6>
+<h4 align="left"><u>About Me</u></h4>
 
 <p>Hello! I'm Nadra, a fullstack developer who's passionate about crafting responsive, intuitive, and efficient web applications. I hold a strong suit in visual design and enjoy a space where I can express my creativity. Additionally, I thrive in collaborative environments in which teamwork make up the backbone of our success. I'm constantly on the hunt for new technologies to learn while I grow as a developer, so make sure to stop back in from time to time to see what I've been up to!</p>
 
@@ -17,7 +17,7 @@
      - Database management & integration through MySQL, Django
      - Optimizing server-side logic, authentication & deployment
 
-<h6 align="left"><b>📫 Contact Me</b> at: nadrasmahamed@gmail.com</h6>
+<h4 align="left"><b>📫 Contact Me</b> at: nadrasmahamed@gmail.com</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
