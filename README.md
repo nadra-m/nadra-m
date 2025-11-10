@@ -17,7 +17,8 @@
      - Database management & integration through MySQL, Django
      - Optimizing server-side logic, authentication & deployment
 
-<h4 align="left"><b>📫 Contact Me</b> at: nadrasmahamed@gmail.com</h4>
+<h4 align="center">📫 Contact Me:</h4>
+<p align="center">nadrasmahamed@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
