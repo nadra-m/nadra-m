@@ -7,6 +7,8 @@
 
 - 🔭 I'm currently interning at **Storyforge**, a literature-based website that encourages writers to create, readers to engage, and to make publication a real possibility to every aspiring author.
 
+<hr>
+
 - 🌱 My **Frontend Development** strengths:
      - React.js, TypeScript, HTML, CSS, Tailwind
      - Component design, state management
@@ -17,8 +19,8 @@
      - Database management & integration through MySQL, Django
      - Optimizing server-side logic, authentication & deployment
 
-<h4 align="center">📫 Contact Me:</h4>
-<p align="center">nadrasmahamed@gmail.com</p>
+<h4 align="left">📫 Contact Me:</h4>
+<p align="left">nadrasmahamed@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
