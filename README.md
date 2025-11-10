@@ -21,10 +21,11 @@
      - Database management & integration through MySQL, Django
      - Optimizing server-side logic, authentication & deployment
 
-<hr>
+- 📫 **Contact Me** via:
+     - nadrasmahamed@gmail.com
+     - <a href="https://www.linkedin.com/in/nadra-mahamed-042010261/">LinkedIn</a>
 
-<h4 align="left">📫 Contact Me:</h4>
-<p align="left">nadrasmahamed@gmail.com</p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
