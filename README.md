@@ -1,13 +1,23 @@
-<h1 align="center">Helloooo! 🚀 My name is Nadra Mahamed</h1>
-<h3 align="center">I'm an aspiring full-stack developer based in Saint Paul, Minnesota.</h3>
+<h1 align="center">Hello hello! 🚀 My name is Nadra Mahamed</h1>
+<h3 align="center">I'm a fullstack developer based in Saint Paul, Minnesota.</h3>
 
-- 🔭 My current project is a **portfolio template for artists, but it isn't quite available just yet! Check back for updates.**
+<h6 align="left"><u>About Me</u></h6>
 
-- 🌱 I’m currently learning **about full-stack development.**
+<p>Hello! I'm Nadra, a fullstack developer who's passionate about crafting responsive, intuitive, and efficient web applications. I hold a strong suit in visual design and enjoy a space where I can express my creativity. Additionally, I thrive in collaborative environments in which teamwork make up the backbone of our success. I'm constantly on the hunt for new technologies to learn while I grow as a developer, so make sure to stop back in from time to time to see what I've been up to!</p>
 
-- 💬 Ask me about **react, java, and python!**
+- 🔭 I'm currently interning at **Storyforge**, a literature-based website that encourages writers to create, readers to engage, and to make publication a real possibility to every aspiring author.
 
-- 📫 How to reach me **nadrasmahamed@gmail.com.**
+- 🌱 My **Frontend Development** strengths:
+     - React.js, TypeScript, HTML, CSS, Tailwind
+     - Component design, state management
+     - Building responsive and accessible interfaces
+
+- 💬 My **Backend Development** strengths:
+     - Node.js, JavaScript, Python, APIs
+     - Database management & integration through MySQL, Django
+     - Optimizing server-side logic, authentication & deployment
+
+<h6 align="left"><b>📫 Contact Me</b> at: nadrasmahamed@gmail.com</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
