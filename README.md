@@ -1,5 +1,5 @@
 <h1 align="center">Hello hello! 🚀 My name is Nadra Mahamed</h1>
-<h3 align="center">I'm a fullstack developer based in Saint Paul, Minnesota.</h3>
+<h3 align="center">I'm a fullstack developer based in Minneapolis, Minnesota.</h3>
 
 <hr>
 
